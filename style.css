@@ -18,7 +18,7 @@ background: none; }
 body {
     color: #FFFFFF;
 }
-h1 {
+h1, h2, h3 {
 color: #FFFFFF !important;
 font-size: 64px;
 text-align: center !important;
