@@ -18,11 +18,7 @@ background: none; }
 body {
     color: #FFFFFF;
 }
-h1 {
-color: #FFFFFF !important;
-font-size: 64px;
-text-align: center !important;
-font-family: 'Ruslan Display', cursive;}
+
 h3, h2 {
 color: #FFD700 !important;
 font-size: 64px;
