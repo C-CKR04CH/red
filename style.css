@@ -18,3 +18,8 @@ background: none; }
 body {
     color: #FFFFFF;
 }
+h1 {
+color: #FFFFFF !important;
+font-size: 64px;
+text-align: center !important;
+font-family: 'Ruslan Display', cursive;}
