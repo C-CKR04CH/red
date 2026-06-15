@@ -1,26 +1,35 @@
 @media screen and (min-width: 601px) { 
-body {
-background: url("https://files.catbox.moe/pgzqtc.jpg") center center fixed;
-background-size: 100%;
-} }
+    body {
+        background: url("https://files.catbox.moe/pgzqtc.jpg") center center fixed;
+        background-size: 100%;
+    } 
+}
+
 @media screen and (max-width: 600px){
-body {
-background: url("https://files.catbox.moe/pgzqtc.jpg") center center fixed;
-background-size: cover;
-} }
+    body {
+        background: url("https://files.catbox.moe/pgzqtc.jpg") center center fixed;
+        background-size: cover;
+    } 
+}
+
 .container.main {
-background: rgba(0, 0, 0, 0.6);
-border: none;
-box-shadow: none;
-border-radius: 5px; }
+    background: rgba(0, 0, 0, 0.6);
+    border: none;
+    box-shadow: none;
+    border-radius: 5px; 
+}
+
 .col-md-9 {
-background: none; } 
-body {
-    color: #FFD700;
+    background: none; 
+} 
+
+body, td, th, .panel, .topbar, .navbar {
+    color: #FFD700 !important;
 }
 
 h3, h2 {
-color: #FFD700 !important;
-font-size: 64px;
-text-align: center !important;
-font-family: 'Ruslan Display', cursive;}
+    color: #FFD700 !important;
+    font-size: 64px;
+    text-align: center !important;
+    font-family: 'Ruslan Display', cursive;
+}
